@@ -7,14 +7,12 @@ p{text-align:center;
   text-familiy:georgia;
   font-size:20px;
   }
-Ul{life_style_type:none;
-background-color:blue;
-   text-align:center;
-   }
-Li{display:inline;
-   border-right:4x solid grey;
-   margin-right:30px;
-   }
+ul {list_style_type:none;
+background-color:white;
+padding: 10 px}
+li {display:inline-block;padding: 0 15px;
+     border-right: 2px solid black
+    margin-center:35 px;}
 body{background-color:green;border-radius:30px}
     img{display: block; margin-left: auto; margin-right: auto; widht:20 px;}
     
